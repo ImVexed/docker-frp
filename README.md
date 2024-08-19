@@ -9,6 +9,7 @@ Docker image for [fatedier/frp](https://github.com/fatedier/frp).
 ## Tags
 
 * latest
+* v0.60.0
 * v0.59.0
 * v0.58.1
 * v0.58.1
